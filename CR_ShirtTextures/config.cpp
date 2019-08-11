@@ -58,9 +58,9 @@ class CfgPatches {
 class CfgVehicles {
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Colgate : C_man_p_fugitive_F {
+	//class CR_Colgate : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -88,9 +88,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Che : C_man_p_fugitive_F {
+	//class CR_Che : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -118,9 +118,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Misfit : C_man_p_fugitive_F {
+	//class CR_Misfit : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -148,9 +148,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Spidercat : C_man_p_fugitive_F {
+	//class CR_Spidercat : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -178,9 +178,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Cena : C_man_p_fugitive_F {
+	//class CR_Cena : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -208,9 +208,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Moth : C_man_p_fugitive_F {
+	//class CR_Moth : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -238,9 +238,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Cats : C_man_p_fugitive_F {
+	//class CR_Cats : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -267,9 +267,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_ISIS : C_man_p_fugitive_F {
+	//class CR_ISIS : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -297,9 +297,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Blood : C_man_p_fugitive_F {
+	//class CR_Blood : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -325,9 +325,9 @@ class CfgVehicles {
 	};
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Presidente : C_man_p_fugitive_F {
+	//class CR_Presidente : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -354,9 +354,9 @@ class CfgVehicles {
 
 
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Target : C_man_p_fugitive_F {
+	//class CR_Target : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -383,9 +383,9 @@ class CfgVehicles {
 
 
 
-	class C_man_1;
+	//class C_man_1;
 
-	class CR_Postal_Dude : C_man_1 {
+	//class CR_Postal_Dude : C_man_1 {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -439,9 +439,9 @@ class CfgVehicles {
 	};
 	
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Shrek : C_man_p_fugitive_F {
+	//class CR_Shrek : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -467,9 +467,9 @@ class CfgVehicles {
 	};
 	
 	
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Guns : C_man_p_fugitive_F {
+	//class CR_Guns : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -495,9 +495,9 @@ class CfgVehicles {
 	};
 	
 
-	class B_Soldier_F;
+	//class B_Soldier_F;
 
-	class CR_Pink : B_Soldier_F {
+	//class CR_Pink : B_Soldier_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -523,9 +523,9 @@ class CfgVehicles {
 	};	
 
 
-	class B_Soldier_F;
+	//class B_Soldier_F;
 
-	class CR_Templer : B_Soldier_F {
+	//class CR_Templer : B_Soldier_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -551,9 +551,9 @@ class CfgVehicles {
 	};	
 
 	
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Anime : C_man_p_fugitive_F {
+	//class CR_Anime : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -579,9 +579,9 @@ class CfgVehicles {
 	};	
 	
 
-	class C_man_p_fugitive_F;
+	//class C_man_p_fugitive_F;
 
-	class CR_Murica : C_man_p_fugitive_F {
+	//class CR_Murica : C_man_p_fugitive_F {
 
 
 		_generalMacro = "B_Soldier_F"; //unsure what this does
@@ -606,8 +606,175 @@ class CfgVehicles {
 
 	};	
 	
-};
+	
+	class C_man_p_fugitive_F;
 
+	class PSO_Black : C_man_p_fugitive_F {
+
+
+		_generalMacro = "B_Soldier_F"; //unsure what this does
+
+		displayName = "PSO Black T-Shirt";
+
+		nakedUniform = "U_BasicBody"; //class for "naked" body
+
+		uniformClass = "PSO_Black"; //e.g. "Example_Soldier_F"
+
+		hiddenSelections[] = {"Camo"};
+
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_black_fronthelmetlogo.paa"};
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		icon = "iconMan";
+
+	};
+	
+	
+	class C_man_p_fugitive_F;
+
+	class PSO_Blackout : C_man_p_fugitive_F {
+
+
+		_generalMacro = "B_Soldier_F"; //unsure what this does
+
+		displayName = "PSO Blackout";
+
+		nakedUniform = "U_BasicBody"; //class for "naked" body
+
+		uniformClass = "PSO_Blackout"; //e.g. "Example_Soldier_F"
+
+		hiddenSelections[] = {"Camo"};
+
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_black_fronthelmetlogo2.paa"};
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		icon = "iconMan";
+
+	};
+	
+	
+	class C_man_p_fugitive_F;
+
+	class PSO_M81 : C_man_p_fugitive_F {
+
+
+		_generalMacro = "B_Soldier_F"; //unsure what this does
+
+		displayName = "PSO M81 Woodland";
+
+		nakedUniform = "U_BasicBody"; //class for "naked" body
+
+		uniformClass = "PSO_M81"; //e.g. "Example_Soldier_F"
+
+		hiddenSelections[] = {"Camo"};
+
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_m81_fronthelmetlogo.paa"};
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		icon = "iconMan";
+
+	};
+	
+
+	class C_man_p_fugitive_F;
+
+	class PSO_OD : C_man_p_fugitive_F {
+
+
+		_generalMacro = "B_Soldier_F"; //unsure what this does
+
+		displayName = "PSO Olive Drab";
+
+		nakedUniform = "U_BasicBody"; //class for "naked" body
+
+		uniformClass = "PSO_OD"; //e.g. "Example_Soldier_F"
+
+		hiddenSelections[] = {"Camo"};
+
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_olivedrab_fronthelmetlogo.paa"};
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		icon = "iconMan";
+
+	};
+	
+
+	class C_man_p_fugitive_F;
+
+	class PSO_Snack : C_man_p_fugitive_F {
+
+
+		_generalMacro = "B_Soldier_F"; //unsure what this does
+
+		displayName = "PSO Snackbar";
+
+		nakedUniform = "U_BasicBody"; //class for "naked" body
+
+		uniformClass = "PSO_Snack"; //e.g. "Example_Soldier_F"
+
+		hiddenSelections[] = {"Camo"};
+
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_snackface.paa"};
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		icon = "iconMan";
+
+	};
+	
+	
+	class C_man_p_fugitive_F;
+
+	class PSO_Trainer : C_man_p_fugitive_F {
+
+
+		_generalMacro = "B_Soldier_F"; //unsure what this does
+
+		displayName = "PSO Trainer";
+
+		nakedUniform = "U_BasicBody"; //class for "naked" body
+
+		uniformClass = "PSO_Trainer"; //e.g. "Example_Soldier_F"
+
+		hiddenSelections[] = {"Camo"};
+
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_trainer.paa"};
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		icon = "iconMan";
+
+	};
+	
+};
 
 
 
@@ -628,7 +795,7 @@ class cfgWeapons {
 	class UniformItem;
 
 
-	class CR_MuricaShirt : Uniform_Base {
+	//class CR_MuricaShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -662,7 +829,7 @@ class cfgWeapons {
 	};	
 	
 
-	class CR_AnimeShirt : Uniform_Base {
+	//class CR_AnimeShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -696,7 +863,7 @@ class cfgWeapons {
 	};	
 
 	
-	class CR_TemplerCamo : Uniform_Base {
+	//class CR_TemplerCamo : Uniform_Base {
 
 
 		author= "Crasus";
@@ -730,7 +897,7 @@ class cfgWeapons {
 	};	
 	
 
-	class CR_PinkCamo : Uniform_Base {
+	//class CR_PinkCamo : Uniform_Base {
 
 
 		author= "Crasus";
@@ -764,7 +931,7 @@ class cfgWeapons {
 	};		
 	
 	
-	class CR_GunsShirt : Uniform_Base {
+	//class CR_GunsShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -798,7 +965,7 @@ class cfgWeapons {
 	};	
 
 	
-	class CR_ShrekShirt : Uniform_Base {
+	//class CR_ShrekShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -832,7 +999,7 @@ class cfgWeapons {
 	};
 
 	
-	class CR_TargetShirt : Uniform_Base {
+	//class CR_TargetShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -867,7 +1034,7 @@ class cfgWeapons {
 
 
 
-	class CR_PresidenteShirt : Uniform_Base {
+	//class CR_PresidenteShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -902,7 +1069,7 @@ class cfgWeapons {
 
 
 
-	class CR_CheShirt : Uniform_Base {
+	//class CR_CheShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -938,7 +1105,7 @@ class cfgWeapons {
 
 
 
-	class CR_MisfitShirt : Uniform_Base {
+	//class CR_MisfitShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -973,7 +1140,7 @@ class cfgWeapons {
 
 
 
-	class CR_SpidercatShirt : Uniform_Base {
+	//class CR_SpidercatShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -1008,7 +1175,7 @@ class cfgWeapons {
 
 
 
-	class CR_CenaShirt : Uniform_Base {
+	//class CR_CenaShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -1045,7 +1212,7 @@ class cfgWeapons {
 
 
 
-	class CR_MothShirt : Uniform_Base {
+	//class CR_MothShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -1081,7 +1248,7 @@ class cfgWeapons {
 
 
 
-	class CR_CatShirt : Uniform_Base {
+	//class CR_CatShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -1117,7 +1284,7 @@ class cfgWeapons {
 
 
 
-	class CR_ISISShirt : Uniform_Base {
+	//class CR_ISISShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -1153,7 +1320,7 @@ class cfgWeapons {
 
 
 
-	class CR_BloodShirt : Uniform_Base {
+	//class CR_BloodShirt : Uniform_Base {
 
 
 		author= "Crasus";
@@ -1189,7 +1356,7 @@ class cfgWeapons {
 
 
 
-	class CR_Postal_Dude_Shirt : Uniform_Base {
+	//class CR_Postal_Dude_Shirt : Uniform_Base {
 
 		author= "Crasus";
 
@@ -1254,7 +1421,7 @@ class cfgWeapons {
 	};	
 	
 	
-	class CR_ColgateShirt : Uniform_Base {
+	//class CR_ColgateShirt : Uniform_Base {
 
 		author= "Crasus";
 
@@ -1284,16 +1451,237 @@ class cfgWeapons {
 		};
 
 	};	
-
 	
 	
+	class PSO_Black : Uniform_Base {
 
-	class H_Cap_blk;
-	class H_Bandanna_blu;
-    class HeadgearItem;
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		displayName = "PSO Black T-Shirt";
+
+		picture = "\CR_ShirtTextures\Data\pso_black_fronthelmetlogo";
+
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+
+
+
+		class ItemInfo : UniformItem {
+
+			uniformModel = "-";
+
+			uniformClass = "PSO_Black"; //would be same as our made soldier class
+
+			containerClass = "Supply40"; //how much it can carry
+
+			mass = 40; //how much it weights
+
+
+		};
+
+	};	
+	
+	
+	class PSO_Black : Uniform_Base {
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		displayName = "PSO Black T-Shirt";
+
+		picture = "\CR_ShirtTextures\Data\pso_black_fronthelmetlogo";
+
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+
+
+
+		class ItemInfo : UniformItem {
+
+			uniformModel = "-";
+
+			uniformClass = "PSO_Black"; //would be same as our made soldier class
+
+			containerClass = "Supply40"; //how much it can carry
+
+			mass = 40; //how much it weights
+
+
+		};
+
+	};	
+
+	
+	class PSO_Blackout : Uniform_Base {
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		displayName = "PSO Blackout";
+
+		picture = "\CR_ShirtTextures\Data\pso_black_fronthelmetlogo2";
+
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+
+
+
+		class ItemInfo : UniformItem {
+
+			uniformModel = "-";
+
+			uniformClass = "PSO_Blackout"; //would be same as our made soldier class
+
+			containerClass = "Supply40"; //how much it can carry
+
+			mass = 40; //how much it weights
+
+
+		};
+
+	};	
+	
+	
+	class PSO_M81 : Uniform_Base {
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		displayName = "PSO M81 Woodland";
+
+		picture = "\CR_ShirtTextures\Data\pso_m81_fronthelmetlogo";
+
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+
+
+
+		class ItemInfo : UniformItem {
+
+			uniformModel = "-";
+
+			uniformClass = "PSO_M81"; //would be same as our made soldier class
+
+			containerClass = "Supply40"; //how much it can carry
+
+			mass = 40; //how much it weights
+
+
+		};
+
+	};	
+	
+	
+	class PSO_OD : Uniform_Base {
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		displayName = "PSO Olive Drab";
+
+		picture = "\CR_ShirtTextures\Data\pso_olivedrab_fronthelmetlogo";
+
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+
+
+
+		class ItemInfo : UniformItem {
+
+			uniformModel = "-";
+
+			uniformClass = "PSO_OD"; //would be same as our made soldier class
+
+			containerClass = "Supply40"; //how much it can carry
+
+			mass = 40; //how much it weights
+
+
+		};
+
+	};
+	
+	
+	class PSO_Snack : Uniform_Base {
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		displayName = "PSO Snackbar";
+
+		picture = "\CR_ShirtTextures\Data\pso_snackface";
+
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+
+
+
+		class ItemInfo : UniformItem {
+
+			uniformModel = "-";
+
+			uniformClass = "PSO_Snack"; //would be same as our made soldier class
+
+			containerClass = "Supply40"; //how much it can carry
+
+			mass = 40; //how much it weights
+
+
+		};
+
+	};
+
+
+	class PSO_Trainer : Uniform_Base {
+
+		author= "Corey";
+
+		scope = 2;
+		scopeCurator = 2;
+		scopeArsenal = 2;
+
+		displayName = "PSO Trainer";
+
+		picture = "\CR_ShirtTextures\Data\pso_trainer";
+
+		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+
+
+
+		class ItemInfo : UniformItem {
+
+			uniformModel = "-";
+
+			uniformClass = "PSO_Trainer"; //would be same as our made soldier class
+
+			containerClass = "Supply40"; //how much it can carry
+
+			mass = 40; //how much it weights
+
+
+		};
+
+	};	
+
+	//class H_Cap_blk;
+	//class H_Bandanna_blu;
+    //class HeadgearItem;
 	
 
-	class CR_H_Autism: H_Cap_blk 
+	//class CR_H_Autism: H_Cap_blk 
 	{
 		author = "Crasus";
 		scope = 2;
@@ -1317,7 +1705,7 @@ class cfgWeapons {
 	};
 	
 	
-	class CR_H_Murica: H_Bandanna_blu 
+	//class CR_H_Murica: H_Bandanna_blu 
 	{
 		author = "Crasus";
 		scope = 2;
@@ -1344,7 +1732,7 @@ class cfgWeapons {
 };
 
 
-class CfgGlasses {
+//class CfgGlasses {
 	/*extern*/ class G_Balaclava_blk;
 
 	class CR_G_Balaclava_pink: G_Balaclava_blk {
