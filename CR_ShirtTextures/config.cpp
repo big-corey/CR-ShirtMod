@@ -225,7 +225,7 @@ class cfgWeapons {
 
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
 		
-		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_black_fronthelmetlogo.paa"};
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_black_fronthelmetlogo.paa"}; //This must be added for all entries in both cfgVehicles and cfgWeapons. - Corey (Hotfix)
 
 
 
