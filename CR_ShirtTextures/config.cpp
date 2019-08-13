@@ -224,6 +224,8 @@ class cfgWeapons {
 		picture = "\CR_ShirtTextures\Data\pso_black_fronthelmetlogo";
 
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+		
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_black_fronthelmetlogo.paa"};
 
 
 
@@ -256,6 +258,8 @@ class cfgWeapons {
 		picture = "\CR_ShirtTextures\Data\pso_black_fronthelmetlogo2";
 
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+		
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_black_fronthelmetlogo2.paa"};
 
 
 
@@ -288,6 +292,8 @@ class cfgWeapons {
 		picture = "\CR_ShirtTextures\Data\pso_m81_fronthelmetlogo";
 
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+		
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_m81_fronthelmetlogo.paa"};
 
 
 
@@ -320,6 +326,8 @@ class cfgWeapons {
 		picture = "\CR_ShirtTextures\Data\pso_olivedrab_fronthelmetlogo";
 
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+		
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_olivedrab_fronthelmetlogo.paa"};
 
 
 
@@ -352,6 +360,8 @@ class cfgWeapons {
 		picture = "\CR_ShirtTextures\Data\pso_snackface";
 
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+		
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_snackface.paa"};
 
 
 
@@ -384,6 +394,8 @@ class cfgWeapons {
 		picture = "\CR_ShirtTextures\Data\pso_trainer";
 
 		model = "\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F";
+		
+		hiddenSelectionsTextures[] = {"\CR_ShirtTextures\Data\pso_trainer.paa"};
 
 
 
